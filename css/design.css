@@ -419,28 +419,28 @@ nav>div>form>button {
 
 
 .portfolio .styles .style-1 {
-    background-image: url(/assets/modern.png);
+    background-image: url(../assets/modern.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .portfolio .styles .style-2 {
-    background-image: url(/assets/unsplash_uFQOmuz8JVY.png);
+    background-image: url(../assets/unsplash_uFQOmuz8JVY.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .portfolio .styles .style-3 {
-    background-image: url(/assets/unsplash_4_jQL4JCS98.png);
+    background-image: url(../assets/unsplash_4_jQL4JCS98.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .portfolio .styles .style-4 {
-    background-image: url(/assets/unsplash_kyt0PkBSCNQ.png);
+    background-image: url(../assets/unsplash_kyt0PkBSCNQ.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
