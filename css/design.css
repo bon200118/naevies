@@ -119,7 +119,7 @@ nav>div>form>button {
     position: relative;
     width: 100%;
     min-height: 100vh;
-    background-image: url(/assets/unsplash_NxAwryAbtIw.png);
+    background-image: url(../assets/unsplash_NxAwryAbtIw.png);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
